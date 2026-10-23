@@ -4,7 +4,7 @@ A one-page website that presents **three logo and visual identity directions** f
 the AI oral-health app from Libya. The client can read the research, compare the three
 concepts and send back their choice.
 
-**Open it:** `index.html` (or the GitHub Pages link for this repo).
+**Open it:** https://monther-bug.github.io/smileai-brand/ (or open `index.html`).
 Add `?lang=ar` to the link to open it in Arabic.
 
 ## The three concepts
